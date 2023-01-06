@@ -1,0 +1,34 @@
+{
+  "name": "Abhishek Bhattacharjee",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Lawyer turned **Digital Nomad**. Travel enthusiast Yoga & Peloton aficionado",
+  "avatar": "https://github.com/AbhiiVops.png",
+   "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/VopsAbhii",
+      "icon": "FaTwitter"
+    },
+     {
+      "name": "Follow me on LinkedIn",
+      "url": "https://www.linkedin.com/in/abhishek-bhattacharjee-0747331a3/",
+      "icon": "FaLinkedin"
+    },
+     {
+      "name": "Follow me on Instagram",
+      "url": "https://www.instagram.com/abhii.bhattacharya4321//",
+      "icon": "FaInstagram"
+    },
+     {
+      "name": "Follow me on Youtube",
+      "url": "https://youtube.com/@codeencode",
+      "icon": "FaYoutube"
+    },
+      {
+      "name": "Follow me on GitHub",
+      "url": "https://github.com/AbhiiVops",
+      "icon": "FaGithub"
+    }
+  ]
+}
